@@ -75,12 +75,3 @@ npm run dev
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👥 Contact
-
-- Email: ayush.scb@gmail.com
-- GitHub: [@Ayush-B1](https://github.com/Ayush-B1) 
